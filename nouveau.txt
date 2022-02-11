@@ -1,0 +1,6 @@
+#!/bin/sh
+# Fichier "mon-nom"
+
+echo "Bonjour... Comment vous-appelez-vous ?"
+read nom
+echo "Je vous souhaite, $nom, de passer une bonne journée."
